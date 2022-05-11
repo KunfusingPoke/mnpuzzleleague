@@ -2,7 +2,7 @@ body {
   background-color: #151515;
   color: #eee;
   height: 600px;
-  mac-width: 1920px;
+  max-width: 1366px;
   margin: auto;
   padding: 0;
 }
@@ -24,7 +24,7 @@ hr {
   background-color: #eee;
   color: black;
   height: 35px;
-  width: 1920px;
+  width: 1366px;
   text-align: left;
   padding:0 0 0 0px;
   font-size: 27px;
