@@ -64,3 +64,16 @@ a{
   text-decoration: none;
   color: white;
 }
+ #nav{
+  background-color: #000;
+  width: 200px;
+  height: 175px;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  padding: 0px;
+}
+#nav ul{
+  list-style-type: none;
+  padding:0;
+}
