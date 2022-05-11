@@ -2,7 +2,8 @@ body {
   background-color: #151515;
   color: #eee;
   height: 600px;
-  width: 1920px;
+  mac-width: 1920px;
+  margin: auto;
   padding: 0;
 }
 #container {
