@@ -1,0 +1,61 @@
+body {
+  background-color: #151515;
+  color: #eee;
+  height: 600px;
+}
+#container {
+  
+}
+#header {
+    color: white;
+    text-align: center;
+  font-size: 27px;
+}
+hr {
+    border:0; 
+    width: 1521px;
+    height:39px; 
+ background:url("https://cdn.discordapp.com/attachments/921181464450699294/973751981384564746/WEBPAGE_DEVIDER.png")  ; 
+}
+#footer {
+  background-color: #eee;
+  color: black;
+  height: 35px;
+  width: 1520px;
+  text-align: left;
+  padding:0 0 0 5px;
+  font-size: 27px;
+  
+}
+#content {
+  padding: 10px;
+}
+#events{
+  background-color: #000;
+  width: 180px;
+  height: 200px;
+  float: left;
+text-align: center;
+}
+#main{
+  float: right
+    
+}
+#footer{
+  clear: both;
+}
+
+#events ul{
+  list-style-type: none;
+  padding:0
+    
+}
+
+#footer a{
+  padding:0px 0px 0px 0px;
+  class:center;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
