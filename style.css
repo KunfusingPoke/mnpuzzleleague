@@ -33,6 +33,7 @@ hr {
 }
 #content {
   padding: 0px;
+  margin: left;
 }
 #events{
   background-color: #000;
