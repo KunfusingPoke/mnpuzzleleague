@@ -84,3 +84,7 @@ li {
    top:20px;
   text-align:center;
 }
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
