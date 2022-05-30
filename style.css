@@ -2,7 +2,7 @@ body {
  background:url("https://i.ibb.co/89h7PgK/WEBPAGE-DEVIDER-neutral.png")  ; 
   color: #eee;
   height: 600px;
-  max-width: 1366px;
+  width: auto;
   margin: auto;
   padding: 0;
 }
