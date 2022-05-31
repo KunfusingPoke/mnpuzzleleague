@@ -98,8 +98,6 @@ li {
 }
 .footer-content{
     display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
+    justify-content: left;
+    text-align: left;
 }
