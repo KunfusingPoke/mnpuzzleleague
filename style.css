@@ -21,17 +21,16 @@ hr {
     height:39px; 
  background:url("https://cdn.discordapp.com/attachments/921181464450699294/973751981384564746/WEBPAGE_DEVIDER.png")  ; 
 }
-#footer{
-    position: relative;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: #fff;
-    height: 20px;
-    width: 100vw;
-    padding-top: 60px;
-    color: #000;
+#footer {
+  background-color: #eee;
+  color: black;
+  height: 35px;
+  width: 100%;
   text-align: left;
+  padding:0 0 0 0px;
+  font-size: 27px;
+  float: left;
+  
 }
   
 #events{
