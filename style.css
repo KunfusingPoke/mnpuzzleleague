@@ -97,7 +97,5 @@ li {
     height: 100%;
 }
 .footer-content{
-    display: flex;
-    justify-content: left;
     text-align: left;
 }
