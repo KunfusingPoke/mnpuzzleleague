@@ -25,7 +25,7 @@ hr {
  position:relative;
   background-color: #eee;
   color: black;
-  height: 35px;
+  height: auto;
   width: 100%;
   text-align: left;
   padding-top: 40px;
