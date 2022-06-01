@@ -22,7 +22,6 @@ body {
   float: left;
 text-align: center;
   position:relative;
-  left: 320px;
   top: 304px;
 }
 hr {
@@ -55,7 +54,7 @@ a{
   color: white;
 }
   
-li{ 
+nav{ 
   display:inline;
   background-color: #000;
   width:1280px;
