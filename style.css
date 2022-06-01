@@ -8,6 +8,10 @@ body {
 #container {
   background-color: #151515;
   height:279px;
+   float: center;
+text-align: center;
+  position:relative;
+  top: 304px;
 }
 #header {
     color: white;
@@ -33,15 +37,6 @@ hr {
   
 }
   
-#container{
-  background-color: #000;
-  width: 180px;
-  height: 250px;
-  float: center;
-text-align: center;
-  position:relative;
-  top: 304px;
-}
 #main{
   background-color: #151515;
   position:relative;
