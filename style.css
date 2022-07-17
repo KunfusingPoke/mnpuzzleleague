@@ -101,6 +101,10 @@ a{
   class:center;
 }
 
+.column {
+    width: 100%;
+    display: block;
+  }
 
 /* Add some shadows to create a card effect */
 .card {
