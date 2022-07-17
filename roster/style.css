@@ -1,0 +1,129 @@
+body {
+ background:url("https://i.ibb.co/89h7PgK/WEBPAGE-DEVIDER-neutral.png")  ; 
+  color: #eee;
+  height: 600px;
+  width: auto;
+  padding: 0;
+}
+#container {
+  background-color: #151515;
+  height:360px;
+}
+#header {
+    color: white;
+    text-align: center;
+  font-size: 31px;
+  
+}
+#nav{
+  text-align:center;
+}
+hr {
+    border:0; 
+    width: 1259px;
+    height:39px; 
+ background:url("https://cdn.discordapp.com/attachments/921181464450699294/973751981384564746/WEBPAGE_DEVIDER.png")  ; 
+}
+#footer {
+  background-color: #eee;
+  color: black;
+  height: 35px;
+  width: 100%;
+  text-align: left;
+  padding:0 0 0 0px;
+  font-size: 27px;
+  float: left;
+  
+}
+  
+
+.nav{
+  text-decoration: none;
+  color: white;
+}
+  
+.nav{ 
+  display:inline;
+  background-color: #000;
+  width:1280px;
+  height:720px;
+  float:center;
+  text-align: center;
+  text-decoration: none;
+  padding: 0px 0px 0px 200px;
+  position:relative;
+   top:25px;
+}
+
+#footer{
+  clear: both;
+  position:relative;
+  top:50px;
+}
+
+#footer a{
+  padding:0px 0px 0px 0px;
+  class:center;
+}
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: auto;
+}
+
+/* Display the columns below each other instead of side by side on small screens */
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+/* Add some shadows to create a card effect */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Some left and right padding inside the container */
+.container {
+  padding: 0 16px;
+}
+
+/* Clear floats */
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+  
+}
+#roster{
+   background-color: #151515;
+  position: relative;
+  top: 20px;
+
+  
+}
+#footer a{
+  text-decoration: none;
+  color: white;
